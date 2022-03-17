@@ -22,6 +22,7 @@
     "@angular/platform-browser-dynamic": "~13.1.0",
     "@angular/router": "~13.1.0",
     "angular-in-memory-web-api": "~0.11.0",
+    "pagedown": "^1.1.0",
     "rxjs": "~7.4.0",
     "simplemde": "^1.11.2",
     "tslib": "^2.3.0",
